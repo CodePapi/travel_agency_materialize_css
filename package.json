@@ -1,0 +1,13 @@
+{
+  "name": "materialize-css",
+  "version": "1",
+  "description": "none",
+  "main": "y",
+  "repository": "y",
+  "author": "y",
+  "license": "y",
+  "private": false,
+  "dependencies": {
+    "materialize-css": "^1.0.0"
+  }
+}
